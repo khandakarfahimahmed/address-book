@@ -1,0 +1,46 @@
+nav {
+  height: 90px;
+
+  box-shadow: 1px 0px 3px black;
+  width: auto;
+  justify-content: center;
+  background-color: #f6f8fa;
+}
+h1 {
+  padding-left: 50px;
+  padding-top: 14px;
+}
+
+form {
+  padding-left: 30px;
+  padding-top: 10%;
+  background-color: #f0f5fb;
+
+  width: 102%;
+  box-shadow: 1px 1px 3px black;
+}
+form .button {
+  height: 45px;
+  margin: 35px 0;
+  padding-left: 10px;
+}
+
+.info {
+  /* padding-left: 30px; */
+  padding-top: 80px;
+  background-color: #c8e3f6;
+  justify-items: auto;
+  width: 58%;
+  box-shadow: 1px 1px 3px black;
+}
+.info1 {
+  /* padding-left: 30px; */
+  padding-top: 80px;
+  background-color: #c8e3f6;
+  justify-items: auto;
+  width: 58%;
+  box-shadow: 1px 1px 3px black;
+}
+p {
+  padding-top: 10px;
+}
